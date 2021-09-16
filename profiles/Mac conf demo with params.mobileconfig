@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Mad conf demo params</string>
+			<key>PayloadIdentifier</key>
+			<string>dev.pingwinator.macconf</string>
+			<key>PayloadType</key>
+			<string>dev.pingwinator.macconf</string>
+			<key>PayloadUUID</key>
+			<string>A2A5828E-F98C-45BB-9BFE-E4E854B3AC45</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>VLColourKey</key>
+			<string>white</string>
+			<key>VLMagicNumerKey</key>
+			<integer>42</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Mac conf demo params</string>
+	<key>PayloadIdentifier</key>
+	<string>VLm1.51B5A848-A81F-4703-911C-03C81E460C82</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5D2F7682-3B17-43EC-B6F6-CB20696ED631</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
